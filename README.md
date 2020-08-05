@@ -1,4 +1,4 @@
-# ant-simulation
+# ant-simulation-JAVA
 This project was made in coordination with my teacher and other students
 This program was made with Java
 
